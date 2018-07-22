@@ -14,7 +14,7 @@ Project depends on external Arduino libraries
 | D1            | SCL            |
 | D2            | SDA            |
 
-Following picture how RTC and OLED should be connected with Arduino.
+Following picture how RTC and OLED should be connected with WeMos D1 Mini.
 
 ![circuit.png](circuit.png)
 
