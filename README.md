@@ -16,7 +16,7 @@ Project depends on external Arduino libraries
 
 Following picture how RTC and OLED should be connected with WeMos D1 Mini.
 
-![circuit.png](./circuit.png =50x10)
+![](./circuit.png | width=100)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
